@@ -2,7 +2,10 @@
 - Lineage OS Fonts Pack
 
 ## Description
-- Added 31 fonts from Lineage OS.
+- Added fonts from Lineage OS.
+
+You will have 31 fonts available.
+
 Include:
 - Accuratist
 - Aclonica
