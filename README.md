@@ -38,3 +38,6 @@ Include:
 - Storopia
 - Surfer
 - Ubuntu
+
+### Link
+- https://github.com/PycmShoma/LineageFontsPack/releases 
